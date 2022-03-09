@@ -1,0 +1,3 @@
+C:/minGW/nannsy4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/minGW/nannsy4/cmake-build-debug/CMakeFiles/nannsy4.dir
+C:/minGW/nannsy4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
